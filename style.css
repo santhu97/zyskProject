@@ -1,0 +1,53 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+.bg-blue {
+    background-color: #611f1f;
+}
+.text-blue {
+    color: #3b5998;
+}
+.skill {
+    background-color: #3b5998;
+}
+.underline {
+    border-bottom: 2px solid #3b5998
+}
+.profile-photo {
+    max-width: 224px;
+}
+.img-fluid
+{
+    border-radius: 50%;
+}
+.img-fluid
+{
+    border-top-left-radius: 40% 50%;
+    border-top-right-radius: 40% 50%;
+    border-bottom-left-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border: 1px solid #021a40;
+    border-style:double;
+    background-color: tomato;
+}
+.lead
+{
+    font-family:'Times New Roman', Times, serif;
+}
+
+.underline my-2
+{
+    background-color: violet;
+}
+
+.santhu
+{
+    background-color:lightblue;
+    border-style: hidden;
+    border-bottom: lightcoral;
+}
+
+.lead
+{
+    font-style: oblique;
+}
